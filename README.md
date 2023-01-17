@@ -12,9 +12,9 @@ PLSQL : SQL procédurale
 
 Administration Base de données  
 
-Gestion des index Base de données . 
+Gestion des index en Base de données . 
 
-Comparaison entre les différente type de base de données : Oracle vs Postrges  
+Comparaison entre les différentes types de base de données : Oracle vs Postrges  
 
 Indexation en masse : Elastic search  
 
